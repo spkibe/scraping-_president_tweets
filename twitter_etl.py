@@ -5,10 +5,10 @@ from datetime import datetime
 import s3fs
 
 # twitter api credentials
-ACCESS_TOKEN = '1539519281204969474-rdM5isKymLpROuT8sYmkeZdZ0XqpZn'
-ACCESS_SECRET = 'gK0eFugb3eiCMreYKyqsakGJbTonwMDSeSd8F6ZgRnf3H'
-CONSUMER_KEY = 'Bv3XuN7OPV4NvYC53Lu4UEIfj'
-CONSUMER_SECRET = 'TC8HPjeb2HnHztqgjRioiOJyntOiIoJEvryuSYS2eueDvM239R'
+ACCESS_TOKEN = 'XXXXX'
+ACCESS_SECRET = 'XXXX'
+CONSUMER_KEY = 'XXX'
+CONSUMER_SECRET = 'XXX'
 
 
 # Setup access to API
